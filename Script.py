@@ -1,10 +1,18 @@
 class script(object):
     START_TXT = """<b>𝙷𝙴𝙻𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 😎😎</b>"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>,This bot is exclusively made for 𝗙𝗜𝗟𝗠 𝗪𝗢𝗥𝗟𝗗 😜 
+
+⚡𝐎𝐖𝐍𝐄𝐑⚡ - @FILMWORLDOFFICIA 
+
+♻𝐂𝐇𝐀𝐍𝐍𝐄𝐋♻ 👉 https://t.me/joinchat/VtTZc5al3Vt0te9_ 👈
+
+⭕𝗚𝗥𝗢𝗨𝗣⭕ 👉 https://t.me/joinchat/-3Vjw61udNM3OWU9 👈
+
+𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 😎😎</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/FilmClub_Channel>𝐅𝐈𝐋𝐌 𝐂𝐋𝐔𝐁 𝐓𝐄𝐀𝐌</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/joinchat/VtTZc5al3Vt0te9_>𝐅𝐈𝐋𝐌 𝐖𝐎𝐑𝐋𝐃 𝐓𝐄𝐀𝐌</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -12,11 +20,11 @@ class script(object):
 ✯ 𝚂𝙾𝚄𝚁𝙲𝙴: <a href=https://t.me/kurachkanjiedukkatte/8>👉 Click Here</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
-<b>- @FilmClub_Channel is an Open Source Project.</b> <code>All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram. </code>
-- <b>Source - @FilmClubGroup </b>
+<b>- @FILMWORofficial is an Open Source Project.</b> <code>All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram. </code>
+- <b>Source - @FILMWORofficial </b>
 
 <b>DEVS:</b>
-- <a href=https://t.me/FilmClub_Channel>Team Film Club</a>"""
+- <a href=https://t.me/joinchat/VtTZc5al3Vt0te9_>Team Film world</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Auto Filter will respond whenever a keyword is found the message
